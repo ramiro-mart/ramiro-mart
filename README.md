@@ -1,1 +1,3 @@
-building ordereat.com | product | business-orientated profile | Software Engineering student @ Universidad de Montevideo (Uruguay)
+building product at ordereat.com | Software Engineering student @ Universidad de Montevideo (Uruguay)
+
+I like sailing
